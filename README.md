@@ -1,5 +1,8 @@
 # pokemon-game
 
+## Site
+https://vue-pokemon-random.netlify.app/
+
 ## Project setup
 ```
 yarn install
